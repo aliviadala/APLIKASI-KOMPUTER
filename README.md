@@ -9,6 +9,6 @@ File-file dalam laman ini terdiri atas:
 4. FILE SETIAP MATERI DALAM FORMAT MARKDOWN (.md)
 5. FILE SETIAP MATERI DALAM FORMAT PDF (.pdf)
 
-Jika kamu penasaran dengan tugas akhir saya, kamu bisa mengunjungi link berikut:
+Jika anda penasaran dengan tugas akhir saya, kamu bisa mengunjungi link berikut:
 1. [TUGAS AKHIR APLIKOM MENGGUNAKAN LATEX](https://www.overleaf.com/read/gdmqnhknzzjx#b1a220)
 2. [TUGAS AKHIR APLIKOM MENGGUNAKAN MARKDOWN](https://www.overleaf.com/read/qktcmyvnqnhh#9934e1)
