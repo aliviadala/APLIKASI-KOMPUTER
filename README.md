@@ -1,6 +1,6 @@
 # PROJEK APLIKASI KOMPUTER (aliviadalakumari.2023@studeny.uny.ac.id)
 
-Ini adalah kumpulan projek yang saya buat selama melakukan perkuliahan Aplikasi Komputer pada semester 3 di jurusan Matematika, Fakultas Matematika dan Ilmu Pengetahuan Alama, Universitas Negeri Yogyakarta. Semoga dengan adanya projek ini bisa membantu teman-teman untuk lebih memahami mata kuliah terkait.
+Ini adalah kumpulan projek yang saya buat selama melakukan perkuliahan Aplikasi Komputer pada semester 3 di jurusan Matematika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Negeri Yogyakarta. Semoga dengan adanya projek ini bisa membantu teman-teman untuk lebih memahami mata kuliah terkait.
 File-file dalam laman ini terdiri atas:
 1. FILE SETIAP MATERI DALAM FORMAT EMT (.en)
 2. IMAGES SETIAP MATERI (.png)
